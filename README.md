@@ -1,6 +1,6 @@
 # Efficacy-of-Location-level-Fixed-Effects-in-Experimental-Economics
 
->Note: This repository corresponds to the following pre-print: (TO FILL: Insert arXiv link)
+>Note: This repository corresponds to one of my working papers
 
 ### What the R Code Does
 - Simulates data with heterogeneity in **location**
